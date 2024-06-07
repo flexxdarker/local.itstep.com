@@ -31,6 +31,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST") {
     <title>Document</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
+
 </head>
 <body>
 <main>
